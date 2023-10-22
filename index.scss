@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+@forward 'library/configs';
+
+@forward 'library/functions/type/is-bool';
+@forward 'library/functions/type/is-color';
+@forward 'library/functions/type/is-list';
+@forward 'library/functions/type/is-map';
+@forward 'library/functions/type/is-number';
+@forward 'library/functions/type/is-parcentage';
+@forward 'library/functions/type/is-string';
+@forward 'library/functions/type/is-time';
+@forward 'library/functions/type/is-type';
