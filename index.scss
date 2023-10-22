@@ -1,13 +1,12 @@
 @charset "UTF-8";
 
-@forward 'library/configs';
-
-@forward 'library/functions/type/is-bool';
-@forward 'library/functions/type/is-color';
-@forward 'library/functions/type/is-list';
-@forward 'library/functions/type/is-map';
-@forward 'library/functions/type/is-number';
-@forward 'library/functions/type/is-parcentage';
-@forward 'library/functions/type/is-string';
-@forward 'library/functions/type/is-time';
-@forward 'library/functions/type/is-type';
+@forward 'library/apple-hig/ios';
+@forward 'library/apple-hig/ios-dark';
+@forward 'library/apple-hig/ios-dark.map';
+@forward 'library/apple-hig/ios.map';
+@forward 'library/apple-hig/macos';
+@forward 'library/apple-hig/macos-dark';
+@forward 'library/apple-hig/macos-dark.map';
+@forward 'library/apple-hig/macos.map';
+@forward 'library/apple-hig/watchos';
+@forward 'library/apple-hig/watchos.map';
